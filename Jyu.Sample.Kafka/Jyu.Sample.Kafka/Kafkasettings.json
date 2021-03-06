@@ -1,0 +1,11 @@
+{
+  "Kafkasettings": {
+    "BootstrapServers ": "localhost:9092",
+    "Topics": {
+      "Topic_One": "test"
+    },
+    "Groups": {
+      "GroupId_One": "test-consumer-group"
+    }
+  }
+}

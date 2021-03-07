@@ -31,7 +31,9 @@ docker-compose up -d
 * `docker-compose.yml` <br/>
 https://github.com/s123600g/Jyu.Sample.Kafka/blob/main/docker-compose-single-broker/docker-compose.yml
 
-# 
+## 使用套件
+Confluent's .NET Client for Apache KafkaTM
+https://github.com/confluentinc/confluent-kafka-dotnet
 
 ![](https://i.imgur.com/ydDWRQb.png)
 

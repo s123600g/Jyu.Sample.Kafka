@@ -28,7 +28,7 @@ namespace Jyu.Sample.Kafka
             Producer();
 
             // 訂閱指定Topic內容
-            //Consumer();
+            Consumer();
         }
 
         /// <summary>

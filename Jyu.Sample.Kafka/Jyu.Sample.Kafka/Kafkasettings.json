@@ -1,6 +1,6 @@
 {
   "Kafkasettings": {
-    "BootstrapServers ": "localhost:9092",
+    "BootstrapServers": "localhost:9092",
     "Topics": {
       "Topic_One": "test"
     },
